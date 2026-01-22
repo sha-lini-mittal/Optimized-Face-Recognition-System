@@ -1,3 +1,5 @@
+
+```text
 This project implements face detection and face recognition using Python.
 It identifies faces from images and matches them with known individuals.
 
